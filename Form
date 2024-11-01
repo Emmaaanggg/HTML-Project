@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<body style="background-color:pink"></body>
+<form action="Carproject.html" method="get">
+    <label for="Username">Enter Username</label>
+    <input type="text" Username="Username" required>
+    <br>
+    <label for="Age">Enter Age: </label>
+    <input type="number" name="Age" required>
+    <br>
+    <label for="Credit Score">Enter Credit Score: </label>
+    <input type="number" name="Credit Score" required>
+    <br>
+    <label for="Address">Enter Address: </label>
+    <input type="text" name="Address" required>
+    <br>
+    <label for="Initial Payment">Enter Initial Payment: </label>
+    <input type="number" name="Initial Payment" >
+    <br>
+    <input type="submit">
+</form>
+</body>
+</html>
+    
+</body>
+</html>
