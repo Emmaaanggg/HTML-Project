@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Dealership</title>
+    <style>
+        body{background-color: #f0f0f0;
+        }
+        table{
+            margin: 40px auto;
+        }
+        .car-table{
+            border: 3px solid green;
+        }
+        .motorbike-table {
+            border:10px double red;
+        }
+        th,td{
+            padding: 10px;
+            text-align
+        }
+    </style>
+</head>
+
+<body style="background-color: pink"></body>
+
+    <table class="car-table" border="1">
+        <tr>
+            <th colspan="7">Cars</th>
+        </tr>
+        <tr>
+            <th>
+                Model
+            </th>
+        
+            <th>
+                Brand
+            </th>
+       
+            <th>
+                Year
+            </th>
+       
+            <th>
+                Version
+            </th>
+       
+            <th>
+                Engine type
+            </th>
+        
+            <th>
+                Fuel Capacity
+            </th>
+       
+            <th>
+                Quantity
+            </th>
+        </tr>
+        <tr>
+            <td>Cayenne</td>
+            <td>Porsche</td>
+            <td>2024</td>
+            <td>4.8L</td>
+            <td>Gasoline</td>
+            <td>75L</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>DBS 770</td>
+            <td>Aston Martin</td>
+            <td>2025</td>
+            <td>3.5L</td>
+            <td>Gasoline</td>
+            <td>78L</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>XM</td>
+            <td>BMW</td>
+            <td>2026</td>
+            <td>4.4L</td>
+            <td>Hybrid</td>
+            <td>80L</td>
+            <td>125</td>
+        </tr>
+        <tr>
+            <td>XJ</td>
+            <td>Jaguar</td>
+            <td>2024</td>
+            <td>4.0L</td>
+            <td>Gasoline</td>
+            <td>77L</td>
+            <td>200</td>
+        </tr>
+        <tr>
+            <td>La Rose Noir Droptail</td>
+            <td>Rolls-royce</td>
+            <td>2025</td>
+            <td>3.6L</td>
+            <td>Gasoline</td>
+            <td>60L</td>
+            <td>12</td>
+        </tr>
+
+       
+    </table>
+
+    <table class="motorbike-table" border="1">
+        <tr></tr>
+            <th colspan="7">Motorbikes</th>
+        </tr>
+        <tr>
+            <th>
+                Model
+            </th>
+        
+            <th>
+                Brand
+            </th>
+       
+            <th>
+                Year
+            </th>
+       
+            <th>
+                Version
+            </th>
+       
+            <th>
+                Engine type
+            </th>
+        
+            <th>
+                Fuel Capacity
+            </th>
+       
+            <th>
+                Quantity
+            </th>
+        </tr>
+        <tr>
+            <td>Ninja 650</td>
+            <td>Kawasaki</td>
+            <td>2023</td>
+            <td>650cc</td>
+            <td>Gasoline</td>
+            <td>10L</td>
+            <td>300</td>
+        </tr>
+        <tr>
+            <td>Ninja H2</td>
+            <td>Kawasaki</td>
+            <td>2025</td>
+            <td>998cc</td>
+            <td>Gasoline</td>
+            <td>20L</td>
+            <td>128</td>
+        </tr>
+        <tr>
+            <td>Es1</td>
+            <td>Ecosse</td>
+            <td>2024</td>
+            <td>1000cc</td>
+            <td>Gasoline</td>
+            <td>18L</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>V10 superbike</td>
+            <td>Dodge Tomahawk</td>
+            <td>2022</td>
+            <td>500cc</td>
+            <td>Gasoline</td>
+            <td>9L</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            <td>Rebel 300</td>
+            <td>Honda</td>
+            <td>2021</td>
+            <td>286cc</td>
+            <td>Gasoline</td>
+            <td>10L</td>
+            <td>500</td>
+        </tr>
+
+    </table>
+</body>
+</html>
