@@ -1,0 +1,30 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+
+
+<body>
+   <table border="1"> 
+       <tr> 
+         <th>Food</th> 
+         <th>Price</th> 
+          
+       </tr> 
+       <tr> 
+         <td>Honey Fried chicken</td> 
+         <td>$6.50</td> 
+       </tr> 
+       <tr> 
+         <td>Garlic Parm Fried chicken</td> 
+         <td>$5.50</td> 
+       </tr> 
+       <tr> 
+         <td>Spicy Fried chicken</td> 
+         <td>$6.00</td> 
+       </tr>
+     </table> 
+     </body>
